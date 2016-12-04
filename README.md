@@ -1,0 +1,2 @@
+# NOTES
+All Java Notes
